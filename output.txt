@@ -1,0 +1,27 @@
+run:
+Enter the month of your birthday: mm 
+12
+Enter the day of your birthday: dd 
+10
+Thursday
+Saturday
+Sunday
+Monday
+Tuesday
+Thursday
+Friday
+Saturday
+Sunday
+Tuesday
+Enter a year for the Election day: yyyy 
+2016
+11/03/2015
+Let's enter a date for Microsoft Excel: 
+Enter the month: mm
+04
+Enter the day: dd 
+7
+Enter the year: yyyy 
+2015
+42712
+BUILD SUCCESSFUL (total time: 1 minute 39 seconds)
